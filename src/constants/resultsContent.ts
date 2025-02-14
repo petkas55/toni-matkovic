@@ -1,0 +1,76 @@
+export const resultsContent = {
+  title: 'Rezultati Klijenata',
+  subtitle: 'Stvarne transformacije, stvarni rezultati',
+  transformations: [
+    {
+      name: 'Marko H.',
+      duration: '4 mjeseca',
+      description: 'Izgubio 15kg i značajno poboljšao snagu i kondiciju.',
+      beforeImage: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1583454152956-1fd27ae12f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Ana M.',
+      duration: '6 mjeseci',
+      description: 'Transformirala svoje tijelo i postigla željenu formu kroz redovite treninge i pravilnu prehranu.',
+      beforeImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Ivan K.',
+      duration: '3 mjeseca',
+      description: 'Povećao mišićnu masu za 8kg uz minimalno povećanje masnoće.',
+      beforeImage: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1583454152956-1fd27ae12f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Petra L.',
+      duration: '5 mjeseci',
+      description: 'Smanjila postotak tjelesne masnoće za 12% i poboljšala kondiciju.',
+      beforeImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Tomislav R.',
+      duration: '8 mjeseci',
+      description: 'Potpuna transformacija tijela - izgubio 25kg i izgradio mišićnu masu.',
+      beforeImage: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1583454152956-1fd27ae12f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Marina P.',
+      duration: '4 mjeseca',
+      description: 'Postigla željenu definiciju i tonus mišića kroz specifičan program treninga.',
+      beforeImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Davor M.',
+      duration: '6 mjeseci',
+      description: 'Povećao snagu u svim vježbama za više od 50% uz poboljšanu definiciju.',
+      beforeImage: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1583454152956-1fd27ae12f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Lucija K.',
+      duration: '3 mjeseca',
+      description: 'Pripremila se za fitness natjecanje i osvojila prvo mjesto u svojoj kategoriji.',
+      beforeImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Robert H.',
+      duration: '7 mjeseci',
+      description: 'Nakon ozljede, vratio se u još bolju formu kroz prilagođeni program rehabilitacije.',
+      beforeImage: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1583454152956-1fd27ae12f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    },
+    {
+      name: 'Nina Š.',
+      duration: '5 mjeseci',
+      description: 'Postigla svoje ciljeve u snazi i izdržljivosti kroz funkcionalni trening.',
+      beforeImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      afterImage: 'https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    }
+  ],
+};

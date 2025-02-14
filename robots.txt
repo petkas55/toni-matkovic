@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Allow: /o-meni
+Allow: /usluge
+Allow: /rezultati
+Allow: /kontakt
+Allow: /pitanja
+
+# Block access to admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*?*
+
+# Allow crawling of images and assets
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.css$
+Allow: /*.js$
+
+# Sitemap location
+Sitemap: https://toni-matkovic.hr/sitemap.xml
